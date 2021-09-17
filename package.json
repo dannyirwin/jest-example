@@ -1,0 +1,22 @@
+{
+  "name": "jest-example",
+  "version": "1.0.0",
+  "description": "Learning from (this)[https://dev.to/dsasse07/a-beginner-s-guide-to-unit-testing-with-jest-45cc]",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyirwin/jest-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyirwin/jest-example/issues"
+  },
+  "homepage": "https://github.com/dannyirwin/jest-example#readme",
+  "dependencies": {
+    "jest": "^27.2.0"
+  }
+}
